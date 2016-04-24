@@ -5,5 +5,7 @@ Copy compile 'com.mcxiaoke.volley:library-aar:1.0.0' in app build.gradle as foll
 
 
     dependencies {
+        ........
         compile 'com.mcxiaoke.volley:library-aar:1.0.0'
+        ........
     }
