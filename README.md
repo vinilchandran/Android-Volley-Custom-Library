@@ -3,8 +3,4 @@ This tutoril will help you to use Volley Library in an easy way by reducing repe
 
 Open build.gradle and copy the dependencies as follows and sync.
 
-    dependencies {
-        ........
-        compile 'com.mcxiaoke.volley:library-aar:1.0.0'
-        ........
-    }
+    iv_lorry.setEnabled(false);
